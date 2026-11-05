@@ -1,115 +1,60 @@
-<!-- =====================================================
-     RIZKY KADARI — GITHUB PROFILE
-     Design: Editorial / Digital Studio
-     ===================================================== -->
+# Rizky Kadari
 
-<div align="center">
+**Economics × IT × Trading**
 
-# RIZKY KADARI<span style="color:#A78BFA">.</span>
+I like exploring how technology, data, and financial markets work together. I build things, break things, experiment with ideas, and occasionally end up making something useful.
 
-**ECONOMICS · TECHNOLOGY · CREATIVE ENGINEERING**
+Currently interested in web development, trading systems, economic data, and automation.
 
-Building digital products at the intersection of ideas, data and technology.
-
-<br/>
-
-[PORTFOLIO ↗](https://rzkycvt.netlify.app) &nbsp; / &nbsp; [GITHUB ↗](https://github.com/Tertercao) &nbsp; / &nbsp; [VIDEO AUTOMATION ↗](https://vidotomatisasi.netlify.app)
-
-<br/>
-
-<img src="https://img.shields.io/badge/BASED_IN-INDONESIA-25232B?style=flat-square" />
-<img src="https://img.shields.io/badge/FOCUS-TECH_%26_DATA-A78BFA?style=flat-square" />
-
-</div>
+[Personal Website ↗](https://rzkycvt.netlify.app) &nbsp; · &nbsp; [VideoOtomatisasi ↗](https://vidotomatisasi.netlify.app) &nbsp; · &nbsp; [Repositories ↗](https://github.com/Tertercao?tab=repositories)
 
 ---
 
-## 01 / INTRODUCTION
+### Selected projects
 
-I'm **Rizky Kadari** — a curious builder exploring the intersection of technology, economics, financial markets and digital creativity.
+A few things I've been working on.
 
-I enjoy turning ideas into functional products, experimenting with automation, and finding better ways to solve problems through technology.
+**01. VideoOtomatisasi**
 
-My interests move between software development, financial analysis, AI-powered workflows and product design.
+AI-powered video creation and workflow automation.
 
----
+[Visit website ↗](https://vidotomatisasi.netlify.app)
 
-## 02 / SELECTED WORK
+**02. EkoStat LIVE**
 
-A collection of projects, experiments and things I've been building.
+An economic and financial dashboard for exploring market-related information.
 
-### 01 — VideoOtomatisasi
+**03. SMC Full Suite**
 
-**AI VIDEO AUTOMATION**
+A TradingView Pine Script project focused on Smart Money Concepts.
 
-A project exploring automated video production and AI-powered creative workflows.
+**04. Macro Event Impact Tracker**
 
-[OPEN PROJECT ↗](https://vidotomatisasi.netlify.app)
+Exploring macroeconomic events, financial markets, and data using Python and SQL.
 
----
+**05. BelajarSeru.id**
 
-### 02 — EkoStat LIVE
-
-**ECONOMICS / FINANCIAL DATA**
-
-An economic and financial dashboard project focused on presenting market-related information.
+A gamified learning platform designed to make learning more engaging.
 
 ---
 
-### 03 — SMC Full Suite
+### Tools I use
 
-**TRADING / PINE SCRIPT**
-
-A TradingView indicator project exploring Smart Money Concepts and market structure.
+`HTML` `CSS` `JavaScript` `PHP` `Python` `MySQL` `SQL` `Pine Script` `Git`
 
 ---
 
-### 04 — Macro Event Impact Tracker
+### A little more about me
 
-**PYTHON / SQL / ECONOMICS**
-
-An exploration of macroeconomic events and their relationship with financial markets.
-
----
-
-### 05 — BelajarSeru.id
-
-**EDTECH / GAMIFICATION**
-
-A digital learning platform concept focused on making learning more interactive.
+- Based in Indonesia.
+- Interested in the intersection of economics and technology.
+- Enjoy building independent projects.
+- Always experimenting with new tools and ideas.
 
 ---
 
-## 03 / TOOLKIT
-
-Technologies and tools I explore.
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode&theme=dark" />
-
-</div>
-
----
-
-## 04 / ELSEWHERE ON THE INTERNET
-
-| PLATFORM | DESTINATION |
-|:--|:--|
-| Personal Website | [rzkycvt.netlify.app ↗](https://rzkycvt.netlify.app) |
-| VideoOtomatisasi | [vidotomatisasi.netlify.app ↗](https://vidotomatisasi.netlify.app) |
-| GitHub | [@Tertercao ↗](https://github.com/Tertercao) |
-
----
-
-<div align="center">
-
-<br/>
-
-**IDEAS → EXPERIMENTS → REAL PRODUCTS.**
-
-<sub>Designed & built by Rizky Kadari · 2026</sub>
-
-<br/><br/>
-
-</div>
+<p align="center">
+  <sub>Rizky Kadari · Tertercao</sub>
+  <br/>
+  <sub>Still building. Still figuring things out.</sub>
+</p>
