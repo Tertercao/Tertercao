@@ -1,127 +1,115 @@
-# 👋 Hey, I'm Rizky Kadari!
+<!-- =====================================================
+     RIZKY KADARI — GITHUB PROFILE
+     Design: Editorial / Digital Studio
+     ===================================================== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C678DD&center=true&vCenter=true&width=650&lines=Economics+%C3%97+Technology+%C3%97+Trading;Developer+%7C+Trader+%7C+Digital+Builder;Turning+Ideas+Into+Reality." alt="Typing Animation" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://rzkycvt.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-C678DD?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/Tertercao">
-    <img src="https://img.shields.io/badge/GitHub-Tertercao-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+# RIZKY KADARI<span style="color:#A78BFA">.</span>
 
----
+**ECONOMICS · TECHNOLOGY · CREATIVE ENGINEERING**
 
-## 🧑‍💻 About Me
+Building digital products at the intersection of ideas, data and technology.
 
-I'm **Rizky Kadari**, a technology enthusiast interested in the intersection of economics, financial markets, artificial intelligence, and software development.
+<br/>
 
-I enjoy creating digital products, exploring automation, analyzing financial data, and turning ideas into practical solutions.
+[PORTFOLIO ↗](https://rzkycvt.netlify.app) &nbsp; / &nbsp; [GITHUB ↗](https://github.com/Tertercao) &nbsp; / &nbsp; [VIDEO AUTOMATION ↗](https://vidotomatisasi.netlify.app)
 
-- 📊 Interested in Economics & Financial Markets
-- 💻 Exploring Software & Web Development
-- 🤖 Building AI-powered automation tools
-- 📈 Passionate about Trading & Market Analysis
-- 🚀 Creating useful digital products
-- 🌱 Always learning and experimenting
+<br/>
+
+<img src="https://img.shields.io/badge/BASED_IN-INDONESIA-25232B?style=flat-square" />
+<img src="https://img.shields.io/badge/FOCUS-TECH_%26_DATA-A78BFA?style=flat-square" />
+
+</div>
 
 ---
 
-## ⚡ Tech Stack & Tools
+## 01 / INTRODUCTION
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode&theme=dark" />
-</p>
+I'm **Rizky Kadari** — a curious builder exploring the intersection of technology, economics, financial markets and digital creativity.
 
----
+I enjoy turning ideas into functional products, experimenting with automation, and finding better ways to solve problems through technology.
 
-## 🚀 Featured Projects
-
-### 🎬 VideoOtomatisasi
-
-**AI-Powered Automated Video Creation**
-
-An AI-powered platform designed to automate video creation, from content generation and narration to visual scenes and subtitles.
-
-- 🎙️ Automated narration
-- 🤖 AI-powered content workflow
-- 🎨 Visual scene generation
-- 🎬 Video creation automation
-
-<p>
-  <a href="https://vidotomatisasi.netlify.app">
-    <img src="https://img.shields.io/badge/Live%20Demo-VideoOtomatisasi-C678DD?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
-
-### 📊 EkoStat LIVE
-
-**Economic & Financial Dashboard**
-
-A project focused on presenting economic and financial information through an interactive dashboard.
-
-### 📈 SMC Full Suite
-
-**TradingView Pine Script Indicator**
-
-A technical analysis project focused on Smart Money Concepts and trading market structure.
-
-### 🌍 Macro Event Impact Tracker
-
-**Python & SQL**
-
-A project exploring economic events and their potential impact on financial markets.
-
-### 🎮 BelajarSeru.id
-
-**Gamified Learning Platform**
-
-A digital learning platform designed to make learning more interactive and engaging.
+My interests move between software development, financial analysis, AI-powered workflows and product design.
 
 ---
 
-## 📊 GitHub Analytics
+## 02 / SELECTED WORK
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tertercao&show_icons=true&theme=tokyonight&hide_border=true&title_color=C678DD&icon_color=C678DD&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tertercao&layout=compact&theme=tokyonight&hide_border=true&title_color=C678DD&bg_color=0D1117" />
-</p>
+A collection of projects, experiments and things I've been building.
 
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=Tertercao&theme=tokyonight&hide_border=true&background=0D1117&ring=C678DD&fire=C678DD&currStreakLabel=C678DD" />
-</p>
+### 01 — VideoOtomatisasi
 
----
+**AI VIDEO AUTOMATION**
 
-## 🐍 Contribution Graph
+A project exploring automated video production and AI-powered creative workflows.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tertercao/Tertercao/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
+[OPEN PROJECT ↗](https://vidotomatisasi.netlify.app)
 
 ---
 
-## 🌐 Connect With Me
+### 02 — EkoStat LIVE
 
-<p align="center">
-  <a href="https://rzkycvt.netlify.app">
-    <img src="https://img.shields.io/badge/Personal%20Portfolio-C678DD?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://vidterotomatisasi.netlify.app">
-    <img src="https://img.shields.io/badge/Video%20Otomatisasi-Explore-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/Tertercao">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+**ECONOMICS / FINANCIAL DATA**
+
+An economic and financial dashboard project focused on presenting market-related information.
 
 ---
 
-<p align="center">
-  <i>"Building at the intersection of data, technology, and ideas."</i>
-  <br/><br/>
-  ⭐ Thanks for visiting my profile!
-</p>
+### 03 — SMC Full Suite
+
+**TRADING / PINE SCRIPT**
+
+A TradingView indicator project exploring Smart Money Concepts and market structure.
+
+---
+
+### 04 — Macro Event Impact Tracker
+
+**PYTHON / SQL / ECONOMICS**
+
+An exploration of macroeconomic events and their relationship with financial markets.
+
+---
+
+### 05 — BelajarSeru.id
+
+**EDTECH / GAMIFICATION**
+
+A digital learning platform concept focused on making learning more interactive.
+
+---
+
+## 03 / TOOLKIT
+
+Technologies and tools I explore.
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 04 / ELSEWHERE ON THE INTERNET
+
+| PLATFORM | DESTINATION |
+|:--|:--|
+| Personal Website | [rzkycvt.netlify.app ↗](https://rzkycvt.netlify.app) |
+| VideoOtomatisasi | [vidotomatisasi.netlify.app ↗](https://vidotomatisasi.netlify.app) |
+| GitHub | [@Tertercao ↗](https://github.com/Tertercao) |
+
+---
+
+<div align="center">
+
+<br/>
+
+**IDEAS → EXPERIMENTS → REAL PRODUCTS.**
+
+<sub>Designed & built by Rizky Kadari · 2026</sub>
+
+<br/><br/>
+
+</div>
